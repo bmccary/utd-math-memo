@@ -2,7 +2,7 @@
 # What is This?
 
 A template I use to create memos and recommendations.
-The result looks [like this](https://github.com/bmccary/utd-math-memo/raw/master/memo.pdf).
+The result looks [like this](https://bmccary.github.io/utd-math-memo/memo.pdf).
 The signature is from the [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) Wikipedia article and is public domain.
 
 # Usage
