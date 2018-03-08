@@ -1,0 +1,37 @@
+\documentclass[11pt]{letter}
+
+\usepackage[top=55mm]{geometry}
+
+\usepackage{hyperref}
+\usepackage{nopageno}
+
+\usepackage[english]{babel}
+\usepackage{blindtext}
+
+\usepackage{wallpaper}
+\ULCornerWallPaper{1}{utd-math-letterhead.pdf}
+
+%\address{The University of Texas at Dallas\\
+%Mathematical Sciences, FO 35\\
+%800 West Campbell Road\\
+%Richardson, TX 75080-3021}
+
+\begin{document}
+\pagestyle{empty}
+ 
+\begin{letter}{To: Applications Committee}
+
+    \opening{Greetings,}
+
+    \Blindtext
+
+    \closing{Sincerely,\\
+    \fromsig{\includegraphics[height=10mm]{signature.png}} \\
+    \fromname{Johnny}
+    }
+\end{letter}
+ 
+\end{document}
+
+% vim:ts=4:sw=4:et
+
